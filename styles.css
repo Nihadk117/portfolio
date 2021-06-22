@@ -1,0 +1,35 @@
+.ig{
+    border-radius: 50;
+}
+.text{
+    color: rgb(3, 3, 3);
+    font-size: 3em;
+    font-weight: bolder;
+}
+.add{
+    margin-left: 3em;
+    margin-top: -4em;
+}
+.web{
+    margin-left: 45px;
+    margin-top: 0em;
+}
+.text-1{
+    margin-top: -10px;
+    margin-left: 48px;
+}
+.ed{
+    color: rgb(3, 3, 3);
+    font-size: 3em;
+    font-weight: bolder;
+}
+.ed-2{
+    margin-top: 10px !important;
+}
+.d-2{
+    margin-top: 160px;
+    margin-left: 10px;
+}
+.date{
+    color:blue;
+}
