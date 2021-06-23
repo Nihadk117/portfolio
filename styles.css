@@ -2,9 +2,7 @@
     border-radius: 50;
 }
 .text{
-    color: rgb(3, 3, 3);
-    font-size: 3em;
-    font-weight: bolder;
+
 }
 .add{
     margin-left: 3em;
@@ -20,8 +18,7 @@
 }
 .ed{
     color: rgb(3, 3, 3);
-    font-size: 3em;
-    font-weight: bolder;
+   
 }
 .ed-2{
     margin-top: 10px !important;
@@ -33,3 +30,20 @@
 .date{
     color:blue;
 }
+.text-head{
+    color: darkslategray;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: monospace;
+}
+.body{
+    color: dimgrey;
+}
+.foot{
+    text-align: center;
+    margin-left: 50px;
+}
+<a href=""></a><i class="fab fa-github"></i></td>
+                        <td><a href=""></a><i class="fab fa-whatsapp"></i></td>
+                        <td><a href=""></a><i class="fab fa-twitter"></i></td>
+                        <td><a href=""></a><i class="fab fa-instagram"
